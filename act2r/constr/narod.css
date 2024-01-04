@@ -1,0 +1,73 @@
+ <STYLE TYPE="text/css">
+
+.narod  {
+
+position: absolute;
+z-index: 5;
+visibility: visible;
+left: 2%;
+top: 19%;
+
+} 
+
+.orgtype {
+
+position: absolute;
+z-index: 5;
+visibility: visible;
+left: 60%;
+
+}
+
+.map {
+
+position: absolute;
+z-index: 4;
+visibility: hidden;
+left: 2%;
+top: 25%;
+
+} 
+
+.initial {
+
+position: absolute;
+z-index: 1;
+visibility: visible;
+left: 15%;
+top: 42%;
+
+} 
+
+
+
+.cities {
+
+position: absolute;
+z-index: 15;
+visibility: hidden;
+left: 40%;
+top: 15%;
+
+}
+
+.descriptor {
+
+position: absolute;
+z-index: 15;
+visibility: hidden;
+left: 2%;
+top:98%;
+
+}
+
+.orgsymble {
+
+position: absolute;
+z-index: 5;
+visibility: visible;
+left: 57%;
+
+}
+                            
+</STYLE>

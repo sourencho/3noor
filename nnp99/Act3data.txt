@@ -1,0 +1,23 @@
+Column A: Your name
+
+Column B: Were you born where you now live?
+(0="no" or 1="yes")
+
+Column C: Were your parents born where YOU now live?
+(0="no", 1="just one of them", 2="yes, both")
+
+Column D: How many of your grandparents were born where YOU now live?
+(0, 1, 2, 3 or 4)                                                                            
+
+The following is a sample. Replace the existing numbers with your own,
+and fill in as many rows as you have students.
+Then email us this text file as an attachment to: nnp-places@narod.org
+
+A (Student name)      B      C      D
+
+Sample student a      1      2      4
+Sample student b      0      1      0
+Sample student c      0      0      2
+Sample student d      1      1      3
+Sample student e      1      1      1
+Etc...
