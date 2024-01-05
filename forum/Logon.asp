@@ -33,7 +33,13 @@ function RetrievePassword_onclick() {
 
 //-->
 </SCRIPT>
-<html>
+<HTML>
+  <style>
+    @font-face {
+      font-family: Arasan;
+      src: url("../fonts/ARASAN.TTF");
+    }
+  </style>
 
 
 <head>

@@ -1,6 +1,12 @@
 
 
-<HTML><HEAD><TITLE>E4D School Database</TITLE>
+<HTML>
+  <style>
+    @font-face {
+      font-family: Arasan;
+      src: url("fonts/ARASAN.TTF");
+    }
+  </style><HEAD><TITLE>E4D School Database</TITLE>
 <META http-equiv=Content-Type content="text/html; charset=iso-8859-1">
 <META content="Edwin Nazarian" name=Author>
 <META content="Microsoft FrontPage 4.0" name=GENERATOR></HEAD>
